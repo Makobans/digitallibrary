@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Percy Jackson The Olympians The Last Olympian](ebook/Percy-Jackson-the-Olympians-The-Last-Olympian.pdf) - Rick Riordan (2009)
 9. [Sisi Tergelap Surga](ebook/Sisi-Tergelap-Surga.pdf) - Brian Khrisna (2023)
 10. [Two American Boys with the Dardanelles Battle Fleet](ebook/Two-American-Boys-with-the-Dardanelles-Battle-Fleet.pdf) - Sherman Crockett (2020)
-11. [Ringkasan Materi](Ringkasan-Materi_Muhammad-Farrel-Althaf.pdf) - Muhammad Farrel Althaf (2025)
+11. [Ringkasan Materi](ebook/Ringkasan-Materi-Muhammad-Farrel-Althaf.pdf) - Muhammad Farrel Althaf (2025)
 ---
 
 *Powered by GitHub Pages*
