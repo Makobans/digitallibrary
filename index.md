@@ -19,5 +19,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 
-[Biodata](link/halaman1.html)
+[Biodata](halaman1.html)
 *Powered by GitHub Pages*
