@@ -16,6 +16,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Sisi Tergelap Surga](ebook/Sisi-Tergelap-Surga.pdf) - Brian Khrisna (2023)
 10. [Two American Boys with the Dardanelles Battle Fleet](ebook/Two-American-Boys-with-the-Dardanelles-Battle-Fleet.pdf) - Sherman Crockett (2020)
 11. [Ringkasan Materi](ebook/Ringkasan-Materi-Muhammad-Farrel-Althaf.pdf) - Muhammad Farrel Althaf (2025)
+
 ---
 
+[Biodata](link/halaman1.html)
 *Powered by GitHub Pages*
